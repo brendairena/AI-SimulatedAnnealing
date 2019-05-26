@@ -61,4 +61,3 @@ print("                            HASIL AKHIR                               ")
 print("----------------------------------------------------------------------")
 print("Nilai minimum fungsi    : ",b_minimum)
 print("Pada koordinat [x1, x2] : ",b_koordinat)
-
